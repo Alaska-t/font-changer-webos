@@ -1,0 +1,14 @@
+{
+  "id": "com.ipk.fontchanger",
+  "version": "1.0.0",
+  "type": "web",
+  "title": "Font Changer",
+  "appDescription": "Font customization utility for rooted LG webOS TVs. Requires webOS 4.0+ and root access. Reported tested on LG 65QNED80SRA running webOS 10.3.2. This build is not ready for Homebrew submission; see REVIEW_BLOCKERS.md.",
+  "iconUri": "https://raw.githubusercontent.com/Alaska-t/font-changer-webos/main/icon.png",
+  "sourceUrl": "https://github.com/Alaska-t/font-changer-webos",
+  "rootRequired": true,
+  "ipkUrl": "https://github.com/Alaska-t/font-changer-webos/releases/download/v1.0.0/com_ipk_fontchanger_1_0_0_all.ipk",
+  "ipkHash": {
+    "sha256": "0dd73c609a376da7905f559181eeecd7c0a06d1ee753c9008f1cb9740e9126d9"
+  }
+}

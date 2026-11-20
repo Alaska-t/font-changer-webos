@@ -1,0 +1,19 @@
+# Draft metadata only. Do not submit until REVIEW_BLOCKERS.md is resolved.
+title: Font Changer
+iconUri: https://raw.githubusercontent.com/Alaska-t/font-changer-webos/main/icon.png
+manifestUrl: https://github.com/Alaska-t/font-changer-webos/releases/latest/download/com.ipk.fontchanger.manifest.json
+category: utility
+pool: non-free
+description: |
+  Font Changer is a font customization utility for rooted LG webOS TVs.
+  It provides font browsing and preview, font-size adjustment, font importing,
+  system-font selection and per-app font controls.
+
+  Requires webOS 4.0 or later and root access. Tested on an LG 65QNED80SRA
+  running webOS 10.3.2; compatibility with other models/versions is not confirmed.
+
+  Claude AI was used during development. AI assistance is disclosed in the
+  submission. The current 1.0.0 package is not ready for review; see
+  REVIEW_BLOCKERS.md for hardware-rule issues that must be fixed first.
+screenshots:
+  - https://raw.githubusercontent.com/Alaska-t/font-changer-webos/main/screenshots/main.png
